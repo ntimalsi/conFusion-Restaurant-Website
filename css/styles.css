@@ -52,3 +52,12 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+#tableModal .modal-header, #loginModal .modal-header {
+  background: #512DA8;
+  color: floralwhite; }
+  #tableModal .modal-header .close, #loginModal .modal-header .close {
+    color: floralwhite; }
+
+#tableModal .modal-body, #loginModal .modal-body {
+  background: #D1C4E9; }
